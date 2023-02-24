@@ -1,0 +1,15 @@
+Machine:   Jehs-MacBook-Pro.local in domain 
+User:      jehdon
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: 
+           Model: 0, Family: 0, Stepping: 0 
+           Total Threads: 8
+           Features: 
+Base path: /Applications/Adobe Premiere Pro 2023/Adobe Premiere Pro 2023.app/Contents/MacOS/
+Arguments: 
+
+00:00:13 [IrLog]           LogFile initialized
+00:00:13 [GlobalSettings]  Loading user settings from /Users/jehdon/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
+00:00:13 [GlobalSettings]  Failed to load user settings, using default values.
